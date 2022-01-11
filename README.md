@@ -19,8 +19,6 @@
   />
 </p>
 
-<br/>
-
 <p align="center">
   <img
     src="./public/cracha-nlw-mobile.gif"
