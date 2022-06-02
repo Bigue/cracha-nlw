@@ -48,7 +48,7 @@ The project layout was made and made available in Figma through this <a href="ht
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">JavaScript</a></li>
 </ul>
 
-<h2 id="sobre-mim">About me</h2>
+<h2 id="sobre-mim">About me 🧑</h2>
 
 My name is Gabriel Fajersztajn, I am 29 years old and I was born and raised in Brazil. I'm looking for an opportunity in the development market, focusing on the JavaScript language stack. I'm training
 my skills in HTML5 and CSS3. I'm currently studying JavaScript to solidify my knowledge in Front-End web development.
