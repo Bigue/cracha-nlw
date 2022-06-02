@@ -5,10 +5,10 @@
 <h2 align="center">Badge Do While 2021 🚀</h2>
 
 <p align="center">
-  <a href="#objetivo">Objetivo</a> •
+  <a href="#objetivo">Objective</a> •
   <a href="#layout">Layout</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#sobre-mim">Sobre Mim</a> 
+  <a href="#tecnologias">Technologies</a> •
+  <a href="#sobre-mim">About me</a> 
 </p>
 
 <p align="center">
@@ -29,26 +29,26 @@
 
 <br/>
 
-<h2 id="objetivo">Objetivo</h2>
+<h2 id="objetivo">Objective</h2>
 
-Esse projeto foi criado pelos Boosters da Rocketseat lançado na NLW Heat, o último NLW pela Rocketseat no ano de 2021. Nesse projeto foi apresentado o repositório na trilha Origin,
-com o foco nos princípios básicos de HTML, CSS e JavaScript com o propósito de ajudar os iniciantes ou aqueles que gostariam de aprimorar sua habilidade técnica e teórica das tecnologias.
+This project was created by Rocketseat Boosters released on NLW Heat, the last NLW by Rocketseat in the year 2021. In this project was presented the repository on the Origin track,
+with a focus on the basics of HTML, CSS and JavaScript with the purpose of helping beginners or those who would like to improve their technical and theoretical skills of the technologies.
 
-O projeto inicial apresentado era estático e não estava responsivo e foi proposto o desafio de implementar algumas animações e deixá-lo responsivo. Utilizei CSS para torná-lo responsivo e 
-acrescentei uma animação na medalha.
+The initial project presented was static and not responsive and the challenge was proposed to implement some animations and make it responsive. I used CSS to make it responsive and
+I added an animation to the medal.
 
 <h2 id="layout">Layout</h2>
 
-O layout do projeto foi feito e disponibilizado no Figma por meio desse <a href="https://www.figma.com/file/bVPY9Y6300VXwMf522hnCt/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)">link</a>
+The project layout was made and made available in Figma through this <a href="https://www.figma.com/file/bVPY9Y6300VXwMf522hnCt/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)">link</a>
 
-<h2 id="tecnologias">Tecnologias</h2>
+<h2 id="tecnologias">Technologies</h2>
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">JavaScript</a></li>
 </ul>
 
-<h2 id="sobre-mim">Sobre Mim</h2>
+<h2 id="sobre-mim">About me</h2>
 
-Meu nome é Gabriel Fajersztajn, tenho 29 anos e sou nascido e criado no Brasil. Estou buscando uma oportunidade no mercado de desenvolvimento, com foco na stack da linguagem JavaScript. Estou treinando
-minhas habilidades em HTML5 e CSS3. Atualmente estou estudando JavaScript para solidificar meus conhecimentos no desenvolvimento web voltado para o Front-End.
+My name is Gabriel Fajersztajn, I am 29 years old and I was born and raised in Brazil. I'm looking for an opportunity in the development market, focusing on the JavaScript language stack. I'm training
+my skills in HTML5 and CSS3. I'm currently studying JavaScript to solidify my knowledge in Front-End web development.
