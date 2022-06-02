@@ -39,7 +39,7 @@ I added an animation to the medal.
 
 <h2 id="layout">Layout 📐</h2>
 
-The project layout was made and made available in Figma through this <a href="https://www.figma.com/file/bVPY9Y6300VXwMf522hnCt/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)">link</a>
+The layout design has been made available in Figma through this <a href="https://www.figma.com/file/bVPY9Y6300VXwMf522hnCt/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)">link</a>
 
 <h2 id="tecnologias">Technologies ⚡</h2>
 <ul>
