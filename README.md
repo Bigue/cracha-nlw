@@ -29,7 +29,7 @@
 
 <br/>
 
-<h2 id="objetivo">Objective</h2>
+<h2 id="objetivo">Objective 🎯</h2>
 
 This project was created by Rocketseat Boosters released on NLW Heat, the last NLW by Rocketseat in the year 2021. In this project was presented the repository on the Origin track,
 with a focus on the basics of HTML, CSS and JavaScript with the purpose of helping beginners or those who would like to improve their technical and theoretical skills of the technologies.
@@ -37,11 +37,11 @@ with a focus on the basics of HTML, CSS and JavaScript with the purpose of helpi
 The initial project presented was static and not responsive and the challenge was proposed to implement some animations and make it responsive. I used CSS to make it responsive and
 I added an animation to the medal.
 
-<h2 id="layout">Layout</h2>
+<h2 id="layout">Layout 📐</h2>
 
 The project layout was made and made available in Figma through this <a href="https://www.figma.com/file/bVPY9Y6300VXwMf522hnCt/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)">link</a>
 
-<h2 id="tecnologias">Technologies</h2>
+<h2 id="tecnologias">Technologies ⚡</h2>
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
