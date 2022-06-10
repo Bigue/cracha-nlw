@@ -35,7 +35,7 @@ This project was created by Rocketseat Boosters released on NLW Heat, the last N
 with a focus on the basics of HTML, CSS and JavaScript with the purpose of helping beginners or those who would like to improve their technical and theoretical skills of the technologies.
 
 The initial project presented was static and not responsive and the challenge was proposed to implement some animations and make it responsive. I used CSS to make it responsive and
-I added an animation to the medal.
+I added an animation to the medal. You can see a preview from this project on this link: https://bigue.github.io/cracha-nlw/
 
 <h2 id="layout">Layout 📐</h2>
 
